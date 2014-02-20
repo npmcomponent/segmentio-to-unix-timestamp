@@ -1,0 +1,13 @@
+{
+  "name": "segmentio-to-unix-timestamp",
+  "description": "Convert a date to a Unix timestamp.",
+  "version": "0.0.1",
+  "keywords": [
+    "date",
+    "unix",
+    "timestamp",
+    "convert"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
